@@ -6,9 +6,9 @@
 Full-Stack | Web 
 
 [![Github](https://img.shields.io/github/followers/Benz-Solutions?style=social)](https://github.com/Benz-Solutions)
-[![Github](https://img.shields.io/github/last-commit/Benz-Solutions/BenzSolutions)](https://github.com/Benz-Solutions/BenzSolutions)
-[![Github](https://img.shields.io/github/stars/Benz-Solutions/BenzSolutions?style=social)](https://github.com/Benz-Solutions/BenzSolutions)
-[![Github](https://img.shields.io/github/watchers/Benz-Solutions/BenzSolutions?style=social)](https://github.com/Benz-Solutions/BenzSolutions)
+[![Github](https://img.shields.io/github/last-commit/Benz-Solutions/Benz-Solutions)](https://github.com/Benz-Solutions/Benz-Solutions)
+[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Solutions?style=social)](https://github.com/Benz-Solutions/Benz-Solutions)
+[![Github](https://img.shields.io/github/watchers/Benz-Solutions/Benz-Solutions?style=social)](https://github.com/Benz-Solutions/Benz-Solutions)
 [![Discord](https://img.shields.io/discord/648638892563628032?label=Discord)](https://discord.gg/kjmaeNa)
 
 
