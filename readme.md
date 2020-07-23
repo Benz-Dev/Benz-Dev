@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/Benz-Solutions/BenzSolutions/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/Benz-Solutions/BenzSolutions/blob/master/img/home-banner-bg1.png">
 
 
 # Hola, soy desarrollador.
