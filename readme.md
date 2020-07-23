@@ -3,7 +3,7 @@
 
 # Hola, soy desarrollador.
 
-Full-Stack | Web 
+Web | Desing
 
 [![Github](https://img.shields.io/github/followers/Benz-Solutions?style=social)](https://github.com/Benz-Solutions)
 [![Github](https://img.shields.io/github/last-commit/Benz-Solutions/Benz-Solutions)](https://github.com/Benz-Solutions/Benz-Solutions)
