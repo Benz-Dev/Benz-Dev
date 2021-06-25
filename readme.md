@@ -37,17 +37,4 @@ Web | Desing
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 
-  
-  <br>
-  <br><br>
-  <br>
- 
-  
-  
-  
-  
-
-  
-  
-[![Gituhub](https://github-readme-stats.vercel.app/api?username=Benz-Solutions)](https://github.com/anuraghazra/github-readme-stats) [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Benz-Solutions)](https://github.com/anuraghazra/github-readme-stats)
 
