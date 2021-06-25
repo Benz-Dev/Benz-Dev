@@ -37,7 +37,7 @@ Web | Desing
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 
- [![Gituhub](https://github-readme-stats.vercel.app/api?username=Benz-Solutions&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Gituhub](https://github-readme-stats.vercel.app/api?username=Benz-Solutions)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Benz-Solutions&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Benz-Solutions)](https://github.com/anuraghazra/github-readme-stats)
 
