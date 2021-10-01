@@ -5,8 +5,8 @@
 
 Web | Desing
 
-[![Github](https://img.shields.io/github/followers/Benz-Solutions?style=social)](https://github.com/Benz-Solutions)
-[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Solutions?style=social)](https://github.com/Benz-Solutions/Benz-Solutions)
+[![Github](https://img.shields.io/github/followers/Benz-Solutions?style=social)](https://github.com/Benz-Dev)
+[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Solutions?style=social)](https://github.com/Benz-Solutions/Benz-Dev)
 [![Discord](https://img.shields.io/discord/648638892563628032?label=Discord)](https://discord.gg/kjmaeNa)
 
 
