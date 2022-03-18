@@ -6,7 +6,7 @@
 Software developer and backend specialist | Web Design
 
 [![Github](https://img.shields.io/github/followers/Benz-Dev?style=social)](https://github.com/Benz-Dev)
-[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Dev?style=social)](https://github.com/Benz-Solutions/Benz-Dev)
+[![Github](https://img.shields.io/github/stars/Benz-Dev/Benz-Dev?style=social)](https://github.com/Benz-Dev/Benz-Dev)
 
 
 
@@ -14,9 +14,7 @@ Software developer and backend specialist | Web Design
 
 <details>
   <summary align="left">Click me 📬 </summary>
-  <pre>
-    Lenguaje favorito Go.
-  </pre>
+  <pre>Gracias por el click 😋</pre>
 </details>
 
 - Soy Desarrollador FullStack.
