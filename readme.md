@@ -3,11 +3,11 @@
 
 # Hola, soy desarrollador.
 
-Web | Desing
+Software developer and backend specialist | Web Design
 
-[![Github](https://img.shields.io/github/followers/Benz-Solutions?style=social)](https://github.com/Benz-Dev)
-[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Solutions?style=social)](https://github.com/Benz-Solutions/Benz-Dev)
-[![Discord](https://img.shields.io/discord/648638892563628032?label=Discord)](https://discord.gg/kjmaeNa)
+[![Github](https://img.shields.io/github/followers/Benz-Dev?style=social)](https://github.com/Benz-Dev)
+[![Github](https://img.shields.io/github/stars/Benz-Solutions/Benz-Dev?style=social)](https://github.com/Benz-Solutions/Benz-Dev)
+
 
 
 ## Acerca de mi
@@ -15,26 +15,23 @@ Web | Desing
 <details>
   <summary align="left">Click me 📬 </summary>
   <pre>
-  Lenguaje favorito Go.
+    Lenguaje favorito Go.
   </pre>
 </details>
 
-- Soy Desarrollador web.
+- Soy Desarrollador FullStack.
 
-- Me encanta el deporte y jugar a juegos.
+- Weightlifting
 
 - Soy de España.
 
 
 ## Mis redes sociales
 
-<a href="https://github.com/Benz-Solutions/">
+<a href="https://github.com/Benz-Dev/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <a href="mailto:benzsolutionsweb@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-<a href="https://www.facebook.com/benzsolutionsweb">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 
 
