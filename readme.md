@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [BioSabor](https://github.com/BioSabor)  
   
 
-- 🌱 I’m currently learning Flutter and Rust  
+- 🌱 I’m currently learning <b>Rust and IA</b>  
   
 
 - ⚡ Sport lover  
@@ -79,15 +79,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Benz-Dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9sbf5z89p7qiubr00siu18jvo&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Benz-Dev&&style=flat-square" align="center" />
